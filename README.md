@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DarkHesse
-- 👀 I’m interested in digital humanities, qualitative and quantitative data analysis, analytical philosophy (philosophy of science, formal logic), 
-- ontology, data engineering, business intelligence, IT service management, IT project management, cyber security
+- 👀 I’m interested in digital humanities, qualitative and quantitative data analysis, data engineering, business intelligence, IT service management, IT project management, cyber security
 - 🌱 I’m currently learning Python, R, DataViz, SQL, XML, ITIL.. and GitHub
 - 💞️ I’m looking to collaborate on ... Nothing. For now.
 - 📫 How to reach me: https://twitter.com/Dark_Hesse
